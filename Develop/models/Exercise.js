@@ -12,11 +12,13 @@ const exerciseSchema = new Schema({
             type: {
                 type: String,
                 trim: true,
+                required: true
                 
             },
             name: {
                 type: String,
                 trim: true,
+                required: true
                 
             },
             duration: {
