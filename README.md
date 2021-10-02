@@ -11,7 +11,7 @@ This is a Workout app that allows users to create new workouts and track their p
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
-- [Live link](#livelink)
+- [Livelink](#livelink)
 - [Questions](#questions)
 
 ## Installation
